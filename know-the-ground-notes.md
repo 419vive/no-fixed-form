@@ -25,6 +25,8 @@ The paper terrain is a narrative metaphor, not a market model. Generated paper c
 ## Credit
 Prepared for Jerry Lai's portfolio with AI assistance in writing, prompts, image generation, code, synthesized sound and presentation. A self-initiated creative study.
 
-## Picture-synchronized music revision
-3秒光線與地形進場；8秒加入節奏；13秒路徑揭示落點；18秒片尾收束。
-Musical phrases restart at picture section boundaries. Titles remain sparse; percussion stops for the end card, which receives a resolving chord. No voice-over or song samples. Synthetic instruments. Full decode checked; musical taste remains subject to listening review.
+## Picture-synchronized ambient score
+8秒地形展開加入短旋律、13秒光與路徑揭示時提高亮度，18秒片尾淡出。
+Original synthesized audible bass, overtones, melodic responses and evolving harmony. Inspired by the requested spacious ambience; no claim of physical Schumann resonance or therapeutic effects. No song samples. Video unchanged.
+
+Text emphasis: brief level reduction before the second and subsequent sentences; a low harmonic cadence blooms half a second after the concluding sentence, leaving time to read.

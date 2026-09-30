@@ -28,6 +28,8 @@ Chinese: Noto Serif CJK TC (SIL Open Font License). English: Georgia, rendered l
 ## Deliverables
 `assets/no-fixed-form.mp4`, `film-subtitles.srt`, bilingual case-study page, treatment, exact prompts, and this record.
 
-## Picture-synchronized music revision
-3秒墨滴進場；9秒遇阻加重；15秒分流推進；21秒遠景撤鼓；27秒片尾和弦收束。
-Musical phrases restart at picture section boundaries. Titles remain sparse; percussion stops for the end card, which receives a resolving chord. No voice-over or song samples. Synthetic instruments. Full decode checked; musical taste remains subject to listening review.
+## Picture-synchronized ambient score
+遇阻時泛音浮現、分流時聲場移動、遠景時舒展，27秒片尾收束。
+Original synthesized audible bass, overtones, melodic responses and evolving harmony. Inspired by the requested spacious ambience; no claim of physical Schumann resonance or therapeutic effects. No song samples. Video unchanged.
+
+Text emphasis: brief level reduction before the second and subsequent sentences; a low harmonic cadence blooms half a second after the concluding sentence, leaving time to read.
