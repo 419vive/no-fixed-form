@@ -9,7 +9,7 @@ The source describes subduing an opposing army without battle. This film takes a
 - One Seedance 2.0 generation: 15 seconds, 1920×1080, with generated sound.
 - Final edit: 21 seconds (3-second title, 15-second sequence, 3-second Jerry Lai end card), 24 fps.
 - FFmpeg editing and separately typeset Chinese / English captions.
-- Original Chinese-inspired R&B synthesized score: pentatonic plucked-string and flute-like tones, electric piano, bass and swung drums; replaces generated ambience; 48 kHz AAC in MP4, Opus in WebM.
+- Original programmatically synthesized sparse score, combined with generated ambience; 48 kHz AAC in MP4, Opus in WebM.
 - No spoken voice-over. No stock client testimonials or campaign results.
 - Exact prompt accompanies this case. No extra generation iterations are claimed.
 
@@ -24,10 +24,3 @@ The paper bridge and boat are metaphors for connection; generated bridge geometr
 
 ## Credit
 Prepared for Jerry Lai's portfolio with AI assistance in writing, prompts, image generation, code, synthesized sound and presentation. A self-initiated creative study.
-
-## Environmental sound design — current release
-紙船滑行、紙邊輕響、橋面揭示的低頻氣流與場景環境底聲。
-The current soundtrack combines a quiet original score with original synthesized environmental sound and Foley-like effects. Subtle sparse original melody, overtones and slow harmony sit beneath the environmental bed, about 23 dB lower after independent loudness normalization, ducked a further 6 dB around picture/text cues. No voice-over, field recordings or song samples. Cues follow visible action, camera perspective and scene changes; water branches move left/right and wide views reduce close detail. Titles and endcards are quiet. Full file decode checked; perceived realism remains subject to listening review.
-
-## Zen ambience revision
-Environmental sound remains foreground. The quiet supporting score now uses slow sustained harmonics and sparse melodic responses, without rhythmic drums. Picture/text cue ducking retained; increased water emphasis retained.
