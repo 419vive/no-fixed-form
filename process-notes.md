@@ -28,8 +28,6 @@ Chinese: Noto Serif CJK TC (SIL Open Font License). English: Georgia, rendered l
 ## Deliverables
 `assets/no-fixed-form.mp4`, `film-subtitles.srt`, bilingual case-study page, treatment, exact prompts, and this record.
 
-## Picture-synchronized ambient score
-遇阻時泛音浮現、分流時聲場移動、遠景時舒展，27秒片尾收束。
-Original synthesized audible bass, overtones, melodic responses and evolving harmony. Inspired by the requested spacious ambience; no claim of physical Schumann resonance or therapeutic effects. No song samples. Video unchanged.
-
-Text emphasis: brief level reduction before the second and subsequent sentences; a low harmonic cadence blooms half a second after the concluding sentence, leaving time to read.
+## Environmental sound design — current release
+墨滴、流動、遇阻、左右分流與遠景風聲。
+The current soundtrack replaces all previous musical scores with original synthesized environmental sound and Foley-like effects. No melody, chords, drums, voice-over, field recordings or song samples. Cues follow visible action, camera perspective and scene changes; water branches move left/right and wide views reduce close detail. Titles and endcards are quiet. Full file decode checked; perceived realism remains subject to listening review.

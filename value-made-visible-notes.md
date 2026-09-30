@@ -25,8 +25,6 @@ The paper bridge and boat are metaphors for connection; generated bridge geometr
 ## Credit
 Prepared for Jerry Lai's portfolio with AI assistance in writing, prompts, image generation, code, synthesized sound and presentation. A self-initiated creative study.
 
-## Picture-synchronized ambient score
-8秒橋面揭示展開和聲、13秒完整橋景加入旋律回應，18秒片尾收束。
-Original synthesized audible bass, overtones, melodic responses and evolving harmony. Inspired by the requested spacious ambience; no claim of physical Schumann resonance or therapeutic effects. No song samples. Video unchanged.
-
-Text emphasis: brief level reduction before the second and subsequent sentences; a low harmonic cadence blooms half a second after the concluding sentence, leaving time to read.
+## Environmental sound design — current release
+紙船滑行、紙邊輕響、橋面揭示的低頻氣流與場景環境底聲。
+The current soundtrack replaces all previous musical scores with original synthesized environmental sound and Foley-like effects. No melody, chords, drums, voice-over, field recordings or song samples. Cues follow visible action, camera perspective and scene changes; water branches move left/right and wide views reduce close detail. Titles and endcards are quiet. Full file decode checked; perceived realism remains subject to listening review.
