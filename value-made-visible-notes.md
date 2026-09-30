@@ -27,4 +27,7 @@ Prepared for Jerry Lai's portfolio with AI assistance in writing, prompts, image
 
 ## Environmental sound design — current release
 紙船滑行、紙邊輕響、橋面揭示的低頻氣流與場景環境底聲。
-The current soundtrack combines a quiet original score with original synthesized environmental sound and Foley-like effects. Subtle original melody, harmony and drums sit beneath the environmental bed, about 23 dB lower after independent loudness normalization, ducked a further 6 dB around picture/text cues. No voice-over, field recordings or song samples. Cues follow visible action, camera perspective and scene changes; water branches move left/right and wide views reduce close detail. Titles and endcards are quiet. Full file decode checked; perceived realism remains subject to listening review.
+The current soundtrack combines a quiet original score with original synthesized environmental sound and Foley-like effects. Subtle sparse original melody, overtones and slow harmony sit beneath the environmental bed, about 23 dB lower after independent loudness normalization, ducked a further 6 dB around picture/text cues. No voice-over, field recordings or song samples. Cues follow visible action, camera perspective and scene changes; water branches move left/right and wide views reduce close detail. Titles and endcards are quiet. Full file decode checked; perceived realism remains subject to listening review.
+
+## Zen ambience revision
+Environmental sound remains foreground. The quiet supporting score now uses slow sustained harmonics and sparse melodic responses, without rhythmic drums. Picture/text cue ducking retained; increased water emphasis retained.
