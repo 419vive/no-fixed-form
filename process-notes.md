@@ -28,5 +28,6 @@ Chinese: Noto Serif CJK TC (SIL Open Font License). English: Georgia, rendered l
 ## Deliverables
 `assets/no-fixed-form.mp4`, `film-subtitles.srt`, bilingual case-study page, treatment, exact prompts, and this record.
 
-## Music revision — 2026-09-30
-Chinese-inspired R&B instrumental, 80–86 BPM across the collection. All instrument sounds are synthesized, not recordings of acoustic guzheng or dizi. No vocals or third-party song samples. Video and captions retained.
+## Music revision — three distinct arrangements
+104 BPM: martial tension, resonant low drums, rapid plucked-string figures and syncopated bass.
+Each film has its own melody, chord progression and percussion arrangement. All sounds are synthesized; no existing song melodies or samples are used. Video and captions retained.

@@ -25,5 +25,6 @@ The paper bridge and boat are metaphors for connection; generated bridge geometr
 ## Credit
 Prepared for Jerry Lai's portfolio with AI assistance in writing, prompts, image generation, code, synthesized sound and presentation. A self-initiated creative study.
 
-## Music revision — 2026-09-30
-Chinese-inspired R&B instrumental, 80–86 BPM across the collection. All instrument sounds are synthesized, not recordings of acoustic guzheng or dizi. No vocals or third-party song samples. Video and captions retained.
+## Music revision — three distinct arrangements
+94 BPM: warm electric-piano melody, moving bass, swung drums and bright plucked accents.
+Each film has its own melody, chord progression and percussion arrangement. All sounds are synthesized; no existing song melodies or samples are used. Video and captions retained.
