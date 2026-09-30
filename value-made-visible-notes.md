@@ -9,7 +9,7 @@ The source describes subduing an opposing army without battle. This film takes a
 - One Seedance 2.0 generation: 15 seconds, 1920×1080, with generated sound.
 - Final edit: 21 seconds (3-second title, 15-second sequence, 3-second Jerry Lai end card), 24 fps.
 - FFmpeg editing and separately typeset Chinese / English captions.
-- Original programmatically synthesized sparse score, combined with generated ambience; 48 kHz AAC in MP4, Opus in WebM.
+- Original Chinese-inspired R&B synthesized score: pentatonic plucked-string and flute-like tones, electric piano, bass and swung drums; replaces generated ambience; 48 kHz AAC in MP4, Opus in WebM.
 - No spoken voice-over. No stock client testimonials or campaign results.
 - Exact prompt accompanies this case. No extra generation iterations are claimed.
 
@@ -24,3 +24,6 @@ The paper bridge and boat are metaphors for connection; generated bridge geometr
 
 ## Credit
 Prepared for Jerry Lai's portfolio with AI assistance in writing, prompts, image generation, code, synthesized sound and presentation. A self-initiated creative study.
+
+## Music revision — 2026-09-30
+Chinese-inspired R&B instrumental, 80–86 BPM across the collection. All instrument sounds are synthesized, not recordings of acoustic guzheng or dizi. No vocals or third-party song samples. Video and captions retained.
