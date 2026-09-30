@@ -25,6 +25,6 @@ The paper terrain is a narrative metaphor, not a market model. Generated paper c
 ## Credit
 Prepared for Jerry Lai's portfolio with AI assistance in writing, prompts, image generation, code, synthesized sound and presentation. A self-initiated creative study.
 
-## Music revision — three distinct arrangements
-72 BPM: lyrical flute-like melody, spacious plucked strings, soft extended chords and restrained percussion.
-Each film has its own melody, chord progression and percussion arrangement. All sounds are synthesized; no existing song melodies or samples are used. Video and captions retained.
+## Picture-synchronized music revision
+3秒光線與地形進場；8秒加入節奏；13秒路徑揭示落點；18秒片尾收束。
+Musical phrases restart at picture section boundaries. Titles remain sparse; percussion stops for the end card, which receives a resolving chord. No voice-over or song samples. Synthetic instruments. Full decode checked; musical taste remains subject to listening review.

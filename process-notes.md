@@ -28,6 +28,6 @@ Chinese: Noto Serif CJK TC (SIL Open Font License). English: Georgia, rendered l
 ## Deliverables
 `assets/no-fixed-form.mp4`, `film-subtitles.srt`, bilingual case-study page, treatment, exact prompts, and this record.
 
-## Music revision — three distinct arrangements
-104 BPM: martial tension, resonant low drums, rapid plucked-string figures and syncopated bass.
-Each film has its own melody, chord progression and percussion arrangement. All sounds are synthesized; no existing song melodies or samples are used. Video and captions retained.
+## Picture-synchronized music revision
+3秒墨滴進場；9秒遇阻加重；15秒分流推進；21秒遠景撤鼓；27秒片尾和弦收束。
+Musical phrases restart at picture section boundaries. Titles remain sparse; percussion stops for the end card, which receives a resolving chord. No voice-over or song samples. Synthetic instruments. Full decode checked; musical taste remains subject to listening review.

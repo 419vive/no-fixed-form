@@ -25,6 +25,6 @@ The paper bridge and boat are metaphors for connection; generated bridge geometr
 ## Credit
 Prepared for Jerry Lai's portfolio with AI assistance in writing, prompts, image generation, code, synthesized sound and presentation. A self-initiated creative study.
 
-## Music revision — three distinct arrangements
-94 BPM: warm electric-piano melody, moving bass, swung drums and bright plucked accents.
-Each film has its own melody, chord progression and percussion arrangement. All sounds are synthesized; no existing song melodies or samples are used. Video and captions retained.
+## Picture-synchronized music revision
+3秒紙船進場；8秒橋面揭示加入律動；13秒完整橋景穩定和聲；18秒片尾收束。
+Musical phrases restart at picture section boundaries. Titles remain sparse; percussion stops for the end card, which receives a resolving chord. No voice-over or song samples. Synthetic instruments. Full decode checked; musical taste remains subject to listening review.
